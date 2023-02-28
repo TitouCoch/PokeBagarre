@@ -56,7 +56,7 @@ public class ConstructeurDePokemon {
     // THEN
 
     //Assertions.assertEquals(false,bool);
-    assertThat(bool).isEqualTo(true);
+    assertThat(bool).isEqualTo(false);
   }
 
   @Test
@@ -71,7 +71,7 @@ public class ConstructeurDePokemon {
     // THEN
 
     //Assertions.assertEquals(false,bool);
-    assertThat(bool).isEqualTo(true);
+    assertThat(bool).isEqualTo(false);
   }
 
   @Test
